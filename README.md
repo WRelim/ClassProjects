@@ -11,7 +11,7 @@ I personally have ADHD and have found having one day a week dedicated to chores 
 It's set up to run on my schools computer and has a specific file path. I suggest either changing or creating a file path of "/Users/student/Documents/jetbrains-workspace/PlannerFinal/src/ADHDPlanner". Open the "PlannerFinal.java" to run the code.
 (Pictured below is the example files reminding you of your Monday chores)
 
-[Test Text](image.png)
+[Test Text](Example.png)
 
 ## Code Example
 This is the method I wrote to create a new object.
